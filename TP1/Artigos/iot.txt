@@ -1,0 +1,219 @@
+https://www.researchgate.net/profile/Larissa_Rosa4/project/Aplicacoes-do-5G-em-IoT/attachment/596cb7ffb53d2f270e5f7b33/AS:517098156036096@1500297215286/download/TCC+Aplicac%CC%A7o%CC%83es+do+5G+em+IoT_R10.pdf?context=ProjectUpdatesLog
+
+
+Atualmente, as principais aplicações do UMTS/HSPA em
+Internet das Coisas são em áreas rurais e em zonas remotas,
+onde o acesso à rede 4G é limitado [9]. Isso acontece devido
+ao fato de o 3G (UMTS/HSPA) ter a infraestrutura de rede
+celular com maior área de cobertura, já que seu sucessor, o 4G
+(LTE/SAE), ainda está concentrado majoritariamente em
+zonas costeiras e em grandes centros urbanos [10]. O 3G
+oferece uma taxa de transferência de dados que atende a
+maioria dos cenários de IoT. Entretanto, quando a análise é
+feita em termos de consumo de bateria, ele se torna uma
+tecnologia inviável, pois módulos 3G tendem a apresentar alto
+consumo de potência [11].
+
+Morawski, A. Padrões NB-IoT são finalizados: e agora?. RFID Journal
+LLC, 29 Ago. 2016. Disponível:
+http://brasil.rfidjournal.com/artigos/vision?14902. 
+
+
+
+
+
+Com a popularidade mundial do sistema LTE Advanced no
+fornecimento de dados de banda larga móvel, vídeo em alta
+definição e serviços de voz avançados para sua base de
+assinantes, as autoridades governamentais começaram a
+considerá-lo como tecnologia candidata na cobertura de
+comunicações D2D (Device-to-Device), que fazem parte do
+cenário da Internet das Coisas. O LTE-Advanced permite que
+dispositivos próximos detectem uns aos outros e se comuniquem diretamente, tendo como objetivo a redução de carga na
+rede e o aumento da capacidade de tráfego de dados em uma
+dada largura de banda [14][15]. 
+
+[14] 3GPP TS 23.303 V 12.5.0, June 2015; Technical Specification Group
+and System Aspects, Proximity-based services (ProSe); Stage 2; Release
+12
+[15] 3GPP TS 24.334 V12.3.0, June 2015; Technical Specification Group
+Core Network and Terminals, Proximity-services (ProSe) User
+Equipment (UE) to ProSe function protocols; Stage 3; Release 12 
+
+
+A tecnologia 5G propõe diversas características inovadoras
+para as redes sem fio. Tais características serão discutidas
+levando-se em consideração o seu impacto tecnológico e a sua
+complexidade para implementação. O desempenho das redes
+5G será abordado em termos de capacidade e taxa de dados,
+latência, eficiência espectral e sobretudo pela capacidade de
+conexão com dispositivos para IoT. Todos os parâmetros
+descritos neste tópico são requisitos estabelecidos pelo ITU
+para a rede 5G [32].
+
+
+P. Tracy. Small cells: Backhaul difficulties and a 5G future. Disponivel:
+http://www.rcrwireless.com/20160711/network-infrastructure/smallcells-tag31-tag99
+
+
+
+
+Tais valores podem ser alcançados utilizando-se células
+com pequenas áreas de cobertura, banda de frequência de
+ondas milimétricas e M-MIMO (Massive – Multiple Input
+Miltiple Output) aliado ao uso de beamforming.
+a.1) Células com pequenas áreas de cobertura: células
+pequenas, com alcance entre 10 metros e 2
+quilômetros, serão instaladas com o objetivo de
+aumentar a capacidade de tráfego e a taxa de
+dados por usuário em áreas urbanas altamente
+congestionadas que não podem ser sustentadas
+pelas atuais macro células [33].
+a.2) Banda de frequência de ondas milimétricas:
+como o espectro de frequências mais baixas já
+está sendo utilizado em outras aplicações, a faixa
+de ondas milimétricas se torna uma possibilidade
+e ainda viabiliza que taxas mais altas sejam
+transmitidas pelo canal, uma vez que existe
+grande largura de banda disponível nesta faixa de
+frequência [34]. A Figura 3 [34] mostra as
+potenciais faixas de frequências a serem
+utilizadas pelo 5G.
+a.3) M-Mimo e Beamforming: A junção das
+tecnologias beamforming e M-MIMO, chamada
+de Massive Beamforming, pode melhorar
+significativamente a intensidade do sinal
+transmitido, o que resulta em uma maior taxa de 
+transmissão e um melhor desempenho da borda
+da célula, se comparado aos sistemas tradicionais
+4G [34].
+
+
+
+Quando dois dispositivos estão próximos um do
+outro, a comunicação pode ser feita via tecnologias D2D sem
+utilizar os recursos da rede móvel, o que a torna muito mais
+eficiente e rápida [36]. O D2D já tem sido estudado pelo
+3GPP como uma tecnologia 4G e sua adoção é de extrema
+importância para aplicações que necessitem de baixa latência. 
+
+
+Devido à maior largura de banda oferecida pela utilização
+da banda de frequência de ondas milimétricas e ao uso de
+células pequenas, o 5G será capaz de atender à uma alta
+densidade de conexão de dispositivos por unidade de área
+[34
+
+
+O ITU define que para um cenário de m-MTC (Massive
+Machine Type Communications), o requisito mínimo é de
+1.000.000 de dispositivos conectados/km2
+. Desta forma, a
+rede 5G será capaz de atender à crescente demanda de
+conectividade provinda das aplicações de IoT
+
+
+(Relativamente a carros conetados e autonomos) 
+A recepção do sinal precisa ser
+contínua e confiável, fatores que a rede 4G atual não consegue
+atender em veículos com alta mobilidade. Como o 5G
+permitirá que os dados trafeguem em taxas mais altas, com
+menor latência e ultra confiabilidade, além de suportar bilhões
+de dispositivos conectados, ele é a tecnologia wireless que
+permitirá aos carros conectados atingirem seu pleno potencial
+e tornará os carros autônomos uma realidade [41]
+
+
+uma cidade inteligente, na qual
+diversas aplicações utilizam da rede wireless para se
+interconectarem.Para que esse cenário se torne realidade é necessário um
+novo tipo de rede móvel capaz de lidar com o aumento
+massivo da carga de dados que a cidade inteligente exigirá.
+Tal rede precisa ser rápida, responsiva e estável,
+características atendidas pelo 5G.
+
+A razão principal pela qual os especialistas acreditam que o
+5G será capaz de cumprir esses requisitos de rede é o seu
+apoio esperado para cenários m-MTC, nos quais as máquinas
+poderão comunicar-se entre si em grande escala, com pouca
+ou quase nenhuma intervenção humana [43]
+
+
+
+O 5G no cenário de casas inteligentes será capaz de oferecer
+banda larga de multi-gigabits, cobertura mais ampla e
+conexões confiáveis que tornam possível entregar novas
+experiências personalizadas para a residência [48]. Com as
+velocidades de conexões comparadas às de fibra-óptica aliadas
+à sua capacidade de suportar 100 dispositivos conectados
+simultaneamente por metro quadrado [49], o 5G se
+consolidará como a rede wireless para soluções de casas
+inteligentes.
+
+
+
+O perfeito funcionamento da VR e da AR depende de três
+componentes de rede: alta capacidade, baixa latência e uma
+experiência uniforme (boa qualidade de serviço em toda a área
+de cobertura). Algumas aplicações dependem de um
+componente mais do que outro, mas suportar os três
+simultaneamente é fundamental para permitir todos os casos
+de uso de realidade virtual e realidade aumentada em uma
+rede.
+A próxima geração de vídeo das aplicações de VR/AR
+inclui novos formatos, como o estereoscópico, HDR (High
+Dynamic Range) e 360°, com resoluções maiores (> 8 K) e
+taxas de quadros mais altas (> 90 fps). Estes novos formatos
+oferecerão experiências de maior qualidade, mas ao custo de
+uma maior largura de banda. O 5G permitirá o uso de largura
+de bandas de até 1 GHz, possibilitando o funcionamento
+adequado de tais aplicações [51].
+latência de 1ms da rede 5G
+tornará essas aplicações de tempo real mais eficientes e
+confiáveis [51].
+
+
+ Dispositivos poderão
+contar com uma alta mobilidade e ainda poderão ter uma alta
+taxa de transmissão com uma latência baixa. Além disso, o 5G
+poderá conectar a maior quantidade de dispositivos do que
+qualquer outra tecnologia por km2.
+(Ver tabela apresentada em cima) 
+
+
+
+
+As outras tecnologias de rede ainda possuem suas
+particularidades quanto à sua aplicabilidade em soluções de
+IoT. No caso das redes celulares já presentes no mercado,
+como o UMTS/HSPA e o LTE-A, a taxa de dados é suficiente
+para utilização em aplicações mais simples de realidade
+aumentada e streaming de vídeo. Já as tecnologias LPWAN,
+podem ser bem aproveitadas em aplicações de indústrias
+inteligentes que apresentam complexas redes de sensores e
+não são dependentes de alta mobilidade ou alta taxa de dados.
+Há ainda um outro fator extremamente importante para
+aplicações em IoT, que é o consumo de potência das baterias
+dos dispositivos inteligentes. As tecnologias LPWAN (LTEM, NB-IoT, Sigfox e LoRaWAN) possibilitam autonomia de
+bateria de 5 a 10 anos com área de cobertura de 10 a 100km2
+[53]. Estima-se que no 5G a vida útil da bateria será de até 10
+anos para dispositivos de baixa potência em comunicações do
+tipo MTC [61].
+
+O 5G, com introdução no mercado prevista para 2021, trará
+um grande impacto em termos de conectividade para
+aplicações de longa distância. Além de oferecer características
+de banda larga, confiabilidade, latência e mobilidade muito
+superiores às existentes no mercado atual, ele tem como
+objetivo ser uma rede móvel de alta adaptabilidade. O 5G terá
+a capacidade de se adaptar às flutuações de tráfego, podendo
+direcionar dinamicamente serviços, como uma maior taxa de
+transferência de dados, se uma aplicação ou usuário especifico
+necessitar. Isso permitirá que as operadoras aumentem suas
+receitas através dos novos serviços e aproveitem a eficiência
+da arquitetura para fazê-los de forma mais econômica.
+É válido ressaltar que as definições em relação a um padrão
+de comunicação para Internet das Coisas e para a definição
+integral da rede 5G ainda estão em fase inicial. Portanto, a
+possibilidade de alterações nos requisitos aqui apresentados
+não pode ser descartada.
