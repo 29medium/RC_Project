@@ -1,8 +1,6 @@
 # RC-Project
 
-# Nome do Projeto
-
-Descrição
+This project was developed in order to better understand the concepts of computer networks
 
 # Authors
 
